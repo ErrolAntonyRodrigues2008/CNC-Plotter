@@ -9,4 +9,4 @@ List of Items Required
 5. CNC shield V4
 6. 18650 Lithium ion Battery (3.7v) (X2)
 7. 18650 Lithium ion Battery Holder
-8. 
+ 
