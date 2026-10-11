@@ -8,6 +8,7 @@ total_time: "4h"
 
 Started designing the schematic and researching the components required
 
-<at least 1 picture of where you're currently at! the more the better>
+<img width="839" height="585" alt="Screenshot (84)" src="https://github.com/user-attachments/assets/a68a84cd-3c3c-4639-9c65-3826a34e8151" />
+
 
 **Total time spent: 1h**
