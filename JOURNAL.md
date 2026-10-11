@@ -6,7 +6,7 @@ total_time: "4h"
 
 ## October 11, 2026: <PCB Schematic Designing>
 
-<Started designing the schematic and researching the components required>
+Started designing the schematic and researching the components required
 
 <at least 1 picture of where you're currently at! the more the better>
 
